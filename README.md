@@ -21,9 +21,6 @@
 
 <!-- Статы -->
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Elzar4816&theme=transparent&hide_border=true" />
-</p>
-<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elzar4816&layout=compact&theme=transparent&hide_title=true" />
 </p>
 
