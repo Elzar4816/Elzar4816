@@ -19,10 +19,7 @@
 </p>
 
 
-<!-- Статы -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elzar4816&layout=compact&theme=transparent&hide_title=true" />
-</p>
+
 
 
 
