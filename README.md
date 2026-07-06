@@ -1,22 +1,4 @@
-<!-- Приколы -->
-  
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/fbd9c10e-15ef-4ac8-be94-c44538f3b56f" width="420" />
-  </p>
-  <p align="center">
-<!-- Короткие бейджи-скиллы -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 
-</p>
-
-<!-- Коротко о себе -->
-<p align="center">
-  Anti ti ti ti fragile fragile
-</p>
 
 
 
